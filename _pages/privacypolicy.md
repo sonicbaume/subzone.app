@@ -12,8 +12,6 @@ This privacy notice for Sonic Baume LTD ("**Company**," "**we**," "**us**," or "
 
 If you have any questions or concerns, please contact us using [this form](https://sonicbaume.freshdesk.com/support/tickets/new).
 
-## Summary
-
 ### What personal information do we process?
 
 We do not collect any personal information without your explicit consent.
