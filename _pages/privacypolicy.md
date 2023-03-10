@@ -4,57 +4,94 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+# Privacy policy
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+**Last updated** March 10, 2023
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+This privacy notice for Sonic Baume LTD ("**Company**," "**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you download and use our mobile application (SubZone), or any other application of ours that links to this privacy notice.
 
-<br>
+If you have any questions or concerns, please contact us using [this form](https://sonicbaume.freshdesk.com/support/tickets/new).
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## Summary
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+### What personal information do we process?
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+We do not collect any personal information without your explicit consent.
 
-<br>
+If you give your permission, the information we collect does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is used for our internal analytics and reporting purposes.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+After you provide your consent, the following information is collected:
+- **Log and Usage Data**. Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called “crash dumps”), and hardware settings).
+- **Device Data**. We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+We use this information for troubleshooting, and for our internal analytics and reporting purposes.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+We do not process sensitive personal information or receive any information from third parties.
 
-<br>
+### How do we process your information?
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+We process your personal information to identify usage trends. We may process information about how you use our Services to better understand how they are being used so we can improve them.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+### On what legal basis do use to process your information?
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information.
 
-<br>
+We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose. You can withdraw your consent at any time.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+### When and with whom do we share your personal information?
 
-<br>
+We may share your data with third-party vendors, service providers, contractors, or agents (“third parties”) who perform services for us or on our behalf and require access to such information to do that work. We have contracts in place with our third parties, which are designed to help safeguard your personal information. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will also not share your personal information with any organization apart from us. They also commit to protect the data they hold on our behalf and to retain it for the period we instruct. The third parties we may share personal information with are as follows:
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+**Web and Mobile Analytics**
+- Google Analytics for Firebase
+
+**Performance Monitoring**
+- Firebase Crash Reporting
+
+We may also share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+
+### Is your information transferred internationally?
+
+Our servers are located in the United States. If you are accessing our Services from outside the United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see “When and with whom do we share your personal information?” above), in  the United States, and other countries.
+
+If you are a resident in the European Economic Area (EEA) or United Kingdom (UK), then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. However, we will take all necessary measures to protect your personal information in accordance with this privacy notice and applicable law.
+
+**European Commission’s Standard Contractual Clauses**
+
+We have implemented measures to protect your personal information, including by using the European Commission’s Standard Contractual Clauses for transfers of personal information between our group companies and between us and our third-party providers. These clauses require all recipients to protect all personal information that they process originating from the EEA or UK in accordance with European data protection laws and regulations. Our Data Processing Agreements that include Standard Contractual Clauses are available here: [https://firebase.google.com/terms/firebase-sccs-eu-p2c](https://firebase.google.com/terms/firebase-sccs-eu-p2c). We have implemented similar appropriate safeguards with our third-party service providers and partners and further details can be provided upon request.
+
+### How long do we keep your information?
+
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+### What are your privacy rights?
+
+In some regions (like the EEA, UK, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section “How can you contact us about this notice?” below. We will consider and act upon any request in accordance with applicable data protection laws.
+
+If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
+
+If you are located in Switzerland, the contact details for the data protection authorities are available here: [https://www.edoeb.admin.ch/edoeb/en/home.html](https://www.edoeb.admin.ch/edoeb/en/home.html).
+
+**Withdrawing your consent**
+
+If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section “How can you contact us about this notice?” below.
+
+However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+If you have questions or comments about your privacy rights, you may email us using [this form](https://sonicbaume.freshdesk.com/support/tickets/new).
+
+### Do we make updates to this notice?
+
+We may update this privacy notice from time to time. The updated version will be indicated by a "Last updated" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you by prominently posting a notice of such changes. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+
+### How can you contact us about this notice?
+
+If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO) using [this form](https://sonicbaume.freshdesk.com/support/tickets/new), or by post to:
+
+Sonic Baume LTD<br/>
+14 Marlborough Rd,<br/>
+St Albans,<br/>
+AL1 3XQ,<br/>
+United Kingdom.
