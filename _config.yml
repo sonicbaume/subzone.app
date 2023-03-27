@@ -3,9 +3,9 @@ page_title                                : SubZone                             
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_country                           : gb                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/app/subzone/id6446367701                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=com.subplacement                                          # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
@@ -14,7 +14,7 @@ documentation_link                        : https://bau.me/subzone-docs/
 
 app_icon                                  : assets/subzone-logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : "SubZone"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : "Subwoofer placement optimizer"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Optimize the position of your subwoofer to maximise your listening experience
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -37,11 +37,11 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Simulation
+  - title                                 : Acoustic simulation
     description                           : Simulates the effect of placing your subwoofer in each possible zone of your room
     fontawesome_icon_name                 : microchip
     
-  - title                                 : Scores
+  - title                                 : Scoring
     description                           : Calculates a score out of 10 for how well each zone performs
     fontawesome_icon_name                 : list-ol
 
@@ -62,7 +62,7 @@ features                                  :
   #   fontawesome_icon_name                 : trowel-bricks
 
   - title                                 : Easy-to-use
-    description                           : Simple interface with guided set-up
+    description                           : Simple interface with guided set-up tutorial
     fontawesome_icon_name                 : user-check
 
   - title                                 : Documentation
@@ -73,13 +73,13 @@ features                                  :
     description                           : Real experts are on-hand to handle any questions or issues
     fontawesome_icon_name                 : user-graduate
 
-  - title                                 : Dark mode
-    description                           : Dark and light color schemes
-    fontawesome_icon_name                 : adjust
+  # - title                                 : Dark mode
+  #   description                           : Dark and light color schemes
+  #   fontawesome_icon_name                 : adjust
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Respects your privacy
+    description                           : Stores data locally, complies with GDPR
+    fontawesome_icon_name                 : shield-alt
 
 
 
