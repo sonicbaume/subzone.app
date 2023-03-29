@@ -16,7 +16,7 @@ app_icon                                  : assets/subzone-logo.png             
 app_name                                  : "SubZone"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : "Subwoofer placement optimizer"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Optimize the position of your subwoofer to maximise your listening experience
-
+og_description                            : SubZone uses simple measurements of your listening space and position to calculate the optimum position for your subwoofer
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
