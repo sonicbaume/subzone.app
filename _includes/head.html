@@ -6,9 +6,21 @@
 
 	<title class="pageTitle">{{ site.page_title }}</title>
 	<meta name="description" content="{{ site.app_description }}">
-	<meta property='og:description' content="{{ site.app_description }}"/>
-	<meta property='og:title' content="{{ site.page_title }}"/>
-	<meta property='og:image' content="{{ '/assets/metaimage.jpg' | absolute_url }}"/>
+
+	<!-- Facebook Meta Tags -->
+	<meta property="og:url" content="{{ '/' | absolute_url }}">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="{{ site.page_title }}">
+	<meta property="og:description" content="{{ site.app_description }}">
+	<meta property="og:image" content="{{ '/assets/metaimage.jpg' | absolute_url }}">
+
+	<!-- Twitter Meta Tags -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta property="twitter:domain" content="bau.me">
+	<meta property="twitter:url" content="{{ '/' | absolute_url }}">
+	<meta name="twitter:title" content="{{ site.page_title }}">
+	<meta name="twitter:description" content="{{ site.app_description }}">
+	<meta name="twitter:image" content="{{ '/assets/twittercard.jpg' | absolute_url }}">
 
 	<link rel="shortcut icon" href="{{ site.app_icon | relative_url }}">
 
